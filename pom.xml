@@ -129,6 +129,14 @@
             <artifactId>cucumber-reporting</artifactId>
             <version>5.5.2</version>
         </dependency>
+	    
+	    <dependency>
+             <groupId>org.projectlombok</groupId>
+             <artifactId>lombok</artifactId>
+             <version>1.18.8</version>
+             <version>1.18.20</version>
+             <scope>provided</scope>
+         </dependency>
 
 
         <dependency>
